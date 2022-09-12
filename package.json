@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_pass",
+  "version": "1.0.0",
+  "description": "computiq task",
+  "main": "index.js",
+  "author": "Ali Rabah",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
